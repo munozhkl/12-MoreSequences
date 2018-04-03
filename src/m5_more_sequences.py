@@ -233,7 +233,7 @@ def index_of_first_negative(numbers):
       :rtype: int
     """
     # ------------------------------------------------------------------
-    # TODO: 4. Implement and test this function.
+    # Done: 4. Implement and test this function.
     #     The testing code is already written for you (above).
     # ------------------------------------------------------------------
     for k in range(len(numbers)):
@@ -294,7 +294,7 @@ def contains_an_a(s):
       :rtype: bool
     """
     # ------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # Done: 5. Implement and test this function.
     #     The testing code is already written for you (above).
     #
     ####################################################################
